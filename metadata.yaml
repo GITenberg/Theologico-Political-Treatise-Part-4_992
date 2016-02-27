@@ -1,0 +1,37 @@
+_repo: Theologico-Political-Treatise-Part-4_992
+contributor:
+  translator:
+    agent_name: Elwes, R. H. M. (Robert Harvey Monro)
+    alias: Elwes, Robert Harvey Monro
+    birthdate: 1853
+    gutenberg_agent_id: '474'
+    url: http://www.gutenberg.org/2009/agents/474
+creator:
+  author:
+    agent_name: Spinoza, Benedictus de
+    aliases:
+    - Spinoza, Baruch
+    - De Spinoza, Benedictus
+    - Espinosa, Baruch de
+    birthdate: 1632
+    deathdate: 1677
+    gutenberg_agent_id: '473'
+    url: http://www.gutenberg.org/2009/agents/473
+    wikipedia: http://en.wikipedia.org/wiki/Baruch_Spinoza
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy and religion -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'Free thought -- Early works to 1800'
+title: Theologico-Political Treatise — Part 4
+url: http://www.gutenberg.org/ebooks/992
