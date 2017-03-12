@@ -1,5 +1,5 @@
 _repo: Theologico-Political-Treatise-Part-4_992
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Elwes, R. H. M. (Robert Harvey Monro)
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1853
     gutenberg_agent_id: '474'
     url: http://www.gutenberg.org/2009/agents/474
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spinoza, Benedictus de
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/473
     wikipedia: http://en.wikipedia.org/wiki/Baruch_Spinoza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/992#Theologico-Political-Treatise-Part-4
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '1997-07-01'
 gutenberg_type: Text
