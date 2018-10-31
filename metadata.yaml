@@ -1,5 +1,5 @@
 _repo: Theologico-Political-Treatise-Part-4_992
-_version: 0.2.1
+_version: 0.2.2
 contributor:
   translator:
     agent_name: Elwes, R. H. M. (Robert Harvey Monro)
@@ -39,5 +39,6 @@ subjects:
 - !lcc 'B'
 - !lcsh 'Political science -- Early works to 1800'
 - !lcsh 'Free thought -- Early works to 1800'
+- GITenberg
 title: Theologico-Political Treatise — Part 4
 url: http://www.gutenberg.org/ebooks/992
